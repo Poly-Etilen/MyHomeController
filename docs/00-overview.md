@@ -12,6 +12,7 @@ ESP32 보드를 통해 에어컨을 원격 제어하고, 센서 데이터를 수
 | [04-ai-report.md](./04-ai-report.md) | AI 리포트 생성 |
 | [05-notification.md](./05-notification.md) | 알림 |
 | [06-automation-schedule.md](./06-automation-schedule.md) | 자동화/스케줄 |
+| [07-erd.md](./07-erd.md) | PostgreSQL ERD |
 
 ## 결정 필요 사항 (전체 공통)
 
