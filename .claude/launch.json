@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "myhome-app",
+      "runtimeExecutable": "/Users/chosun-nhn22/Desktop/AIOT/myhome/mvnw",
+      "runtimeArgs": ["spring-boot:run"],
+      "port": 8080
+    }
+  ]
+}
